@@ -40,7 +40,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2211.11248">Video Background Music Generation: Dataset, Method and Evaluation</a></div>
-    <div class="author"><strong>Le Zhuo</strong>, Zhaokai Wang, Baisen Wang, Yue Liao, Stanley Peng, Chenxi Bao, Miao Lu, Xiaobo Li, and Si Liu</div>
+    <div class="author"><strong>Le Zhuo*</strong>, Zhaokai Wang*, Baisen Wang*, Yue Liao, Stanley Peng, Chenxi Bao, Miao Lu, Xiaobo Li, and Si Liu</div>
     <div class="periodical"><em><strong>ICCV 2023</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2211.11248.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
