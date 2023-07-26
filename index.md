@@ -14,6 +14,7 @@ I am a BSc student at Beihang Univerisity, majoring in Computer Science and Tech
 ## News
 
 - **[Jul. 2023]** I am looking for a PhD position starting from Fall 2024! Please feel free to contact me if you are interested in my research.
+- **[Jul. 2023]** Our paper about music driven dance generation is accepted to ACM MM 2023!
 - **[Jul. 2023]** Our paper about video background music generation is accepted to ICCV 2023!
 - **[Jun. 2023]** Our paper about automatic lyrics transcription is accepted to ISMIR 2023!
 
