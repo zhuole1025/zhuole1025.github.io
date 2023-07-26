@@ -20,4 +20,4 @@ I am a BSc student at Beihang Univerisity, majoring in Computer Science and Tech
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
