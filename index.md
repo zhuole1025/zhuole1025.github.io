@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a BSc student at Beihang Univerisity, majoring in Computer Science and Technology. I am currently working with Prof. [Jian Tang](https://jian-tang.com/) at [Mila - Québec AI Institute](https://mila.quebec/). During my undergraduate years at BUAA, I was supervised by  Prof. [Si Liu](http://colalab.net/) and I was fortunate to work with Dr. [Jie Fu](https://bigaidream.github.io/) at Beijing Academy of Artificial Intelligence. I was also a research intern at Alibaba Inc., where I worked on dance generation with Dr. [Aixi Zhang](https://scholar.google.com.hk/citations?user=hNTP47EAAAAJ&hl=en).
+I am a BSc student at Beihang Univerisity, majoring in Computer Science and Technology. I am currently working with Prof. [Jian Tang](https://jian-tang.com/) at [Mila - Québec AI Institute](https://mila.quebec/). During my undergraduate years at BUAA, I was supervised by  Prof. [Si Liu](http://colalab.net/) and I was fortunate to work with Prof. [Shuicheng Yan](https://yanshuicheng.info/) and Dr. [Jie Fu](https://bigaidream.github.io/) at Beijing Academy of Artificial Intelligence. I was also a research intern at Alibaba Inc., where I worked on dance generation with Dr. [Aixi Zhang](https://scholar.google.com.hk/citations?user=hNTP47EAAAAJ&hl=en).
 
 ## Research Interests
 <!-- My interests spans multiple areas, including: -->
-- **Generative Modeling:** Broad applications of generative models, e.g., music generation, dance generation, AI for science, etc
-- **Multimodal Learning:** Building foundation models to bridge the gap between different modalities, e.g., text, image, audio, etc.
+- **Generative Modeling:** Broad applications of generative models, e.g., Diffusion Models, Flow matching, molecular docking, etc.
+- **Multimodal Learning:** Developing models that seamlessly integrate and bridge the gap between various modalities, e.g., text, image, audio, etc.
 
 ## News
 
