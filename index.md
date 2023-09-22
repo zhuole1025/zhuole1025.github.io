@@ -8,12 +8,14 @@ I am a BSc student at Beihang Univerisity, majoring in Computer Science and Tech
 
 ## Research Interests
 <!-- My interests spans multiple areas, including: -->
-- **Generative Modeling:** Broad applications of generative models, e.g., Diffusion Models, Flow matching, molecular docking, etc.
-- **Multimodal Learning:** Developing models that seamlessly integrate and bridge the gap between various modalities, e.g., text, image, audio, etc.
+- **Generative Modeling:** Broad families of generative models and their potential applications, e.g., diffusion models, flow matching, etc.
+- **AI4Science:** Exploring ways to make deep learning algorithms more robust to common challenges in drug discovery, e.g., protein docking, molecular generation, etc.
+- **Multimodal Learning:** Developing models that seamlessly integrate and bridge the gap between various modalities, such as text, image, and audio.
 
 ## News
 
-- **[Jul. 2023]** I am looking for a PhD position starting from Fall 2024! Please feel free to contact me if you are interested in my research.
+- **[Sep. 2023]** I am looking for a PhD position starting from Fall 2024! Please feel free to contact me if you are interested in my research.
+- **[Sep. 2023]** Our benchmark paper about music representation learning is accepted to NeurIPS 2023!
 - **[Jul. 2023]** Our paper about music driven dance generation is accepted to ACM MM 2023!
 - **[Jul. 2023]** Our paper about video background music generation is accepted to ICCV 2023!
 - **[Jun. 2023]** Our paper about automatic lyrics transcription is accepted to ISMIR 2023!

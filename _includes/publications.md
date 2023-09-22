@@ -44,7 +44,7 @@
     <div class="periodical"><em><strong>ICCV 2023</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2211.11248.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/zhuole1025/LyricWhiz" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/zhuole1025/SymMV" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
@@ -91,7 +91,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2306.10548">MARBLE: Music Audio Representation Benchmark for Universal Evaluation</a></div>
     <div class="author">Ruibin Yuan, Yinghao Ma, Yizhi Li, Ge Zhang, Xingran Chen, Hanzhi Yin, <strong>Le Zhuo</strong>, Yiqi Liu, Jiawen Huang, Zeyue Tian, Binyue Deng, Ningzhi Wang, Chenghua Lin, Emmanouil Benetos, Anton Ragni, Norbert Gyenge, Roger Dannenbert, Wenhu Chen, Gus Xia, Wei Xue, Si Liu, Shi Wang, Ruibo Liu, Yike Guo, and Jie Fu</div>
-    <div class="periodical"><em><strong>arXiv 2023</strong></em></div>
+    <div class="periodical"><em><strong>NeurIPS 2023</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2306.10548.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/a43992899/MARBLE-Benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
