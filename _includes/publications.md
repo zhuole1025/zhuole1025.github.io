@@ -9,6 +9,31 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/iclr24.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2310.01089">GraphText: Graph Reasoning in Text Space</a></div>
+    <div class="author"> Jianan Zhao*, Le Zhuo, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, and Jian Tang</div>
+    <div class="periodical"><em><strong>arXiv</strong></em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2310.01089.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/zhuole1025/LyricWhiz" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/mm23.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACM MM</abbr>
   </div>
