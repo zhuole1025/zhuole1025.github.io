@@ -1,5 +1,15 @@
 main:
 
+  - title: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions"
+    authors: Songhao Han*,  <strong>Le Zhuo*</strong>, Yue Liao, Si Liu
+    conference_short: Preprint
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2311.11904.pdf
+    code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/cvpr24.png
+    # notes: Early Accept
+
   - title: "GraphText: Graph Reasoning in Text Space"
     authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang
     conference_short: Preprint
