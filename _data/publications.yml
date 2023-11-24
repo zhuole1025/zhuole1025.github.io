@@ -30,7 +30,7 @@ main:
     image: ./assets/img/mm23.png
 
   - title: "Video Background Music Generation: Dataset, Method and Evaluation"
-    authors: <strong>Le Zhuo*</strong>, Zhaokai Wang*, Baisen Wang*, Yue Liao, Stanley Peng, Chenxi Bao, Miao Lu, Xiaobo Li, Si Liu
+    authors: <strong>Le Zhuo*</strong>, Zhaokai Wang*, Baisen Wang*, Yue Liao, Chenxi Bao, Stanley Peng, Songhao Han, Aixi Zhang, Fei Fang, Si Liu
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2211.11248.pdf
@@ -48,7 +48,7 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/neurips23.png
 
-  - title: "Video Background Music Generation: Dataset, Method and Evaluation"
+  - title: "LyricWhiz: Robust Multilingual Zero-shot Lyrics Transcription by Whispering to ChatGPT"
     authors: <strong>Le Zhuo</strong>, Ruibin Yuan, Jiahao Pan, Yizhi Li, Ge Zhang, Jiawen Huang, Si Liu, Roger Dannenberg, Jie Fu, Chenghua Lin, Emmanouil Benetos, Wenhu Chen, Wei Xue, Yike Guo
     conference_short: ISMIR
     conference:  International Society for Music Information Retrieval <strong>(ISMIR)</strong>, 2023.
