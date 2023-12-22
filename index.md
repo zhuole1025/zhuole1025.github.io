@@ -16,6 +16,7 @@ I am a BSc student at Beihang Univerisity, majoring in Computer Science and Tech
 
 ## News
 
+- **[Dec. 2023]** I am honored to receive the 2023 SenseTime Scholarship, which is awarded to 30 Chinese undergraduate students in the field of AI!  
 - **[Sep. 2023]** Our benchmark paper about music representation learning is accepted to NeurIPS 2023!
 - **[Jul. 2023]** Our paper about music driven dance generation is accepted to ACM MM 2023 as an oral presentation!
 - **[Jul. 2023]** Our paper about video background music generation is accepted to ICCV 2023!
