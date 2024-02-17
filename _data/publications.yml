@@ -1,5 +1,15 @@
 main:
 
+  - title: "ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training"
+    authors: <strong>Le Zhuo*</strong>, Zewen Chi*, Minghao Xu*, Heyan Huang, Jianan Zhao, Heqi Zheng, Conghui He, Xian-Ling Mao, Wentao Zhang
+    conference_short: Preprint
+    conference: Under review.
+    # pdf: https://arxiv.org/pdf/2311.11904.pdf
+    # code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/protllm.png
+    # notes: Early Accept
+
   - title: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions"
     authors: Songhao Han*,  <strong>Le Zhuo*</strong>, Yue Liao, Si Liu
     conference_short: Preprint
