@@ -4,8 +4,8 @@ main:
     authors: <strong>Le Zhuo*</strong>, Zewen Chi*, Minghao Xu*, Heyan Huang, Jianan Zhao, Heqi Zheng, Conghui He, Xian-Ling Mao, Wentao Zhang
     conference_short: Preprint
     conference: Under review.
-    # pdf: https://arxiv.org/pdf/2311.11904.pdf
-    # code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
+    pdf: https://le-zhuo.com/assets/files/protllm.pdf
+    page: https://protllm.github.io/project/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/protllm.png
     # notes: Early Accept
