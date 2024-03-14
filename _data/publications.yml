@@ -4,8 +4,9 @@ main:
     authors: <strong>Le Zhuo*</strong>, Zewen Chi*, Minghao Xu*, Heyan Huang, Jianan Zhao, Heqi Zheng, Conghui He, Xian-Ling Mao, Wentao Zhang
     conference_short: Preprint
     conference: Under review.
-    pdf: https://le-zhuo.com/assets/files/protllm.pdf
-    page: https://protllm.github.io/project/
+    pdf: https://arxiv.org/pdf/2403.07920.pdf
+    page: https://protllm.github.io/project
+    code: https://github.com/ProtLLM/ProtLLM
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/protllm.png
     # notes: Early Accept
@@ -53,8 +54,8 @@ main:
     conference_short: NeurIPS
     conference: Neural Information Processing Systems  <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.10548.pdf
-    code: https://github.com/a43992899/MARBLE-Benchmark
     page: https://marble-bm.shef.ac.uk/
+    code: https://github.com/a43992899/MARBLE-Benchmark
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/neurips23.png
 
