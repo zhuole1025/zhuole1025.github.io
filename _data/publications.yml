@@ -1,6 +1,6 @@
 main:
 
-    - title: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers"
+  - title: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers"
     authors: Peng Gao*, <strong>Le Zhuo*</strong>, Ziyi Lin*, Chris Liu*, Junsong Chen*, Ruoyi Du*, Enze Xie*, Xu Luo*, Longtian Qiu*, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li
     conference_short: Preprint
     conference: Technical Report.
