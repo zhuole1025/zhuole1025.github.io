@@ -15,7 +15,8 @@ I received my B.E. degree from Beihang Univerisity, majoring in Computer Science
 
 ## News
 
-- **[May  2024]** Follow our latest work: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers." We open source the next generation of generative models using flow matching and diffusion transformer!
+- **[May 2024]** Our paper about protein understanding using LLMs is accepted to ACL 2024!
+- **[May 2024]** Follow our latest work: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers." We open source the next generation of generative models using flow matching and diffusion transformer!
 - **[Dec. 2023]** I am honored to receive the 2023 SenseTime Scholarship, which is awarded to 30 Chinese undergraduate students in the field of AI!
 - **[Sep. 2023]** Our benchmark paper about music representation learning is accepted to NeurIPS 2023!
 - **[Jul. 2023]** Our paper about music driven dance generation is accepted to ACM MM 2023 as an oral presentation!

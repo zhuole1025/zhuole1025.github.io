@@ -13,8 +13,8 @@ main:
 
   - title: "ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training"
     authors: <strong>Le Zhuo*</strong>, Zewen Chi*, Minghao Xu*, Heyan Huang, Jianan Zhao, Heqi Zheng, Conghui He, Xian-Ling Mao, Wentao Zhang
-    conference_short: Preprint
-    conference: Under review.
+    conference_short: ACL
+    conference: Association for Computational Linguistics, <strong>(ACL)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.07920.pdf
     page: https://protllm.github.io/project
     code: https://github.com/ProtLLM/ProtLLM
