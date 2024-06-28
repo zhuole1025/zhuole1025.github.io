@@ -19,7 +19,7 @@ main:
     # page: https://lumina-t2-x-web.vercel.app
     code: https://github.com/Alpha-VLLM/Lumina-T2X
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/lumina-t2x.png
+    image: ./assets/img/Lumina-T2X.png
     # notes: Early Accept
 
   - title: "ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training"
