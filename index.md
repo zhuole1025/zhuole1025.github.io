@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About Me
 
-I received my B.E. degree from Beihang Univerisity, majoring in Computer Science and Technology. I am currently working as a research intern at Shanghai AI Lab, supervised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before this, I was a research intern at [Mila - Québec AI Institute](https://mila.quebec/) supervised by Prof. [Jian Tang](https://jian-tang.com/). During my undergraduate years at BUAA, I was supervised by  Prof. [Si Liu](http://colalab.net/) and I was fortunate to work with Prof. [Shuicheng Yan](https://yanshuicheng.info/) and Dr. [Jie Fu](https://bigaidream.github.io/) at Beijing Academy of Artificial Intelligence. I was also a research intern at Alibaba Inc., where I worked on dance generation with Dr. [Aixi Zhang](https://scholar.google.com.hk/citations?user=hNTP47EAAAAJ&hl=en).
+I received my B.E. degree from Beihang Univerisity in 2024, majoring in Computer Science and Technology. I am currently working as a research intern at Shanghai AI Lab, supervised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before this, I was a research intern at [Mila - Québec AI Institute](https://mila.quebec/) supervised by Prof. [Jian Tang](https://jian-tang.com/). During my undergraduate years at BUAA, I was supervised by  Prof. [Si Liu](http://colalab.net/) and I was fortunate to work with Prof. [Shuicheng Yan](https://yanshuicheng.info/) and Dr. [Jie Fu](https://bigaidream.github.io/) at Beijing Academy of Artificial Intelligence. I was also a research intern at Alibaba Inc., where I worked on music generation with Dr. [Aixi Zhang](https://scholar.google.com.hk/citations?user=hNTP47EAAAAJ&hl=en).
 
 ## Research Interests
 
@@ -16,7 +16,7 @@ I received my B.E. degree from Beihang Univerisity, majoring in Computer Science
 ## News
 
 - **[May 2024]** Our paper about protein understanding using LLMs is accepted to ACL 2024!
-- **[May 2024]** Follow our latest work: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers." We open source the next generation of generative models using flow matching and diffusion transformer!
+- **[May 2024]** Check out our Lumina series of papers, the next generation of generative models including flow-based models, autoregressive models, and more on the way!
 - **[Dec. 2023]** I am honored to receive the 2023 SenseTime Scholarship, which is awarded to 30 Chinese undergraduate students in the field of AI!
 - **[Sep. 2023]** Our benchmark paper about music representation learning is accepted to NeurIPS 2023!
 - **[Jul. 2023]** Our paper about music driven dance generation is accepted to ACM MM 2023 as an oral presentation!

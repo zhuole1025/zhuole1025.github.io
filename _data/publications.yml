@@ -1,5 +1,16 @@
 main:
 
+  - title: "Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining"
+    authors: Dongyang Liu*, Shitian Zhao*, <strong>Le Zhuo*</strong>, Weifeng Lin*, Yu Qiao, Hongsheng Li, Peng Gao
+    conference_short: Preprint
+    conference: Technical Report.
+    pdf: https://arxiv.org/abs/2408.02657
+    # page: https://lumina-t2-x-web.vercel.app
+    code: https://github.com/Alpha-VLLM/Lumina-mGPT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/lumina-mgpt.png
+    # notes: Early Accept
+
   - title: "Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT"
     authors: <strong>Le Zhuo*</strong>, Ruoyi Du*, Han Xiao*, Yangguang Li*, Dongyang Liu*, Rongjie Huang*, Wenze Liu*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
     conference_short: Preprint
