@@ -13,8 +13,8 @@ main:
 
   - title: "Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT"
     authors: <strong>Le Zhuo*</strong>, Ruoyi Du*, Han Xiao*, Yangguang Li*, Dongyang Liu*, Rongjie Huang*, Wenze Liu*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
-    conference_short: Preprint
-    conference: Technical Report.
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems  <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.18583
     # page: https://lumina-t2-x-web.vercel.app
     code: https://github.com/Alpha-VLLM/Lumina-T2X
