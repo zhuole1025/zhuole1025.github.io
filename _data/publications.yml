@@ -14,7 +14,7 @@ main:
   - title: "Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT"
     authors: <strong>Le Zhuo*</strong>, Ruoyi Du*, Han Xiao*, Yangguang Li*, Dongyang Liu*, Rongjie Huang*, Wenze Liu*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
     conference_short: NeurIPS
-    conference: Neural Information Processing Systems  <strong>(NeurIPS)</strong>, 2024.
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.18583
     # page: https://lumina-t2-x-web.vercel.app
     code: https://github.com/Alpha-VLLM/Lumina-T2X
@@ -57,9 +57,9 @@ main:
   - title: "GraphText: Graph Reasoning in Text Space"
     authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang
     conference_short: NeurIPS
-    conference: NeurIPS 2024 Workshop on Adaptive Foundation Models, 2024
+    conference: NeurIPS 2024 Workshop on Adaptive Foundation Models, 2024.
     pdf: https://arxiv.org/pdf/2310.01089.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/AndyJZhao/GraphText
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/iclr24.png
     # notes: Early Accept
