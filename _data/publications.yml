@@ -56,8 +56,8 @@ main:
 
   - title: "GraphText: Graph Reasoning in Text Space"
     authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang
-    conference_short: Preprint
-    conference: Under review.
+    conference_short: NeurIPS
+    conference: NeurIPS 2024 Workshop on Adaptive Foundation Models, 2024
     pdf: https://arxiv.org/pdf/2310.01089.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
