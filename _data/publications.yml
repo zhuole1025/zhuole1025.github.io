@@ -1,5 +1,27 @@
 main:
 
+  - title: "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation"
+    authors: Fangxun Shu*, Yue Liao*, <strong>Le Zhuo</strong>, Chenning Xu, Lei Zhang, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu, Haoyuan Li, Bolin Li, Zhelun Yu, Si Liu, Hongsheng Li, Hao Jiang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2408.15881
+    # page: https://lumina-t2-x-web.vercel.app
+    code: https://github.com/shufangxun/LLaVA-MoD
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/llavamod.png
+    # notes: Early Accept
+  
+  - title: "PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions"
+    authors: Weifeng Lin*, Xinyu Wei*, Renrui Zhang*, <strong>Le Zhuo</strong>, Shitian Zhao, Siyuan Huang, Junlin Xie, Yu Qiao, Peng Gao, Hongsheng Li
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2409.15278
+    # page: https://lumina-t2-x-web.vercel.app
+    code: https://github.com/AFeng-x/PixWizard
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/pixwizard.png
+    # notes: Early Accept
+
   - title: "Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining"
     authors: Dongyang Liu*, Shitian Zhao*, <strong>Le Zhuo*</strong>, Weifeng Lin*, Yu Qiao, Hongsheng Li, Peng Gao
     conference_short: Preprint
@@ -24,8 +46,8 @@ main:
 
   - title: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers"
     authors: Peng Gao*, <strong>Le Zhuo*</strong>, Ziyi Lin*, Chris Liu*, Junsong Chen*, Ruoyi Du*, Enze Xie*, Xu Luo*, Longtian Qiu*, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li
-    conference_short: Preprint
-    conference: Technical Report.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2405.05945
     # page: https://lumina-t2-x-web.vercel.app
     code: https://github.com/Alpha-VLLM/Lumina-T2X
@@ -44,15 +66,15 @@ main:
     image: ./assets/img/protllm.png
     # notes: Early Accept
 
-  - title: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions"
-    authors: Songhao Han*,  <strong>Le Zhuo*</strong>, Yue Liao, Si Liu
-    conference_short: Preprint
-    conference: Under review.
-    pdf: https://arxiv.org/pdf/2311.11904.pdf
-    code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/cvpr24.png
-    # notes: Early Accept
+  # - title: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions"
+  #   authors: Songhao Han*,  <strong>Le Zhuo*</strong>, Yue Liao, Si Liu
+  #   conference_short: Preprint
+  #   conference: Under review.
+  #   pdf: https://arxiv.org/pdf/2311.11904.pdf
+  #   code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/cvpr24.png
+  #   # notes: Early Accept
 
   - title: "GraphText: Graph Reasoning in Text Space"
     authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang

@@ -12,10 +12,11 @@ I am currently working as a young researcher at Shanghai AI Lab after receiving 
 
 - **Generative Modeling:** Broad families of generative models and their potential applications, e.g., diffusion models, flow matching, etc.
 - **Multimodal Learning:** Developing models that seamlessly integrate and bridge the gap between various modalities, such as text, image, and audio.
-- **AI4Science:** Exploring ways to make deep learning algorithms more robust to common challenges in drug discovery, e.g., protein understanding, molecular generation, etc.
+<!-- - **AI4Science:** Exploring ways to make deep learning algorithms more robust to common challenges in drug discovery, e.g., protein understanding, molecular generation, etc. -->
 
 ## News
 
+- **[Jan. 2025]** Three papers are accepted to ICLR 2025!
 - **[Sep. 2024]** Our paper "Lumina-Next" for improving text-to-image generation is accepted to NeurIPS 2024!
 - **[May 2024]** Our paper "ProtLLM" about protein understanding using LLMs is accepted to ACL 2024!
 - **[May 2024]** Check out our Lumina series of papers, the next generation of generative models including flow-based models, autoregressive models, and more on the way!
