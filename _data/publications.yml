@@ -52,6 +52,7 @@ main:
     # page: https://lumina-t2-x-web.vercel.app
     code: https://github.com/Alpha-VLLM/Lumina-T2X
     # bibtex: https://bib.yliu.me/MICCAI23.txt
+    notes: Spotlight
     image: ./assets/img/Lumina-T2X.png
     # notes: Early Accept
 

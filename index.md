@@ -16,7 +16,7 @@ I am currently working as a young researcher at Shanghai AI Lab after receiving 
 
 ## News
 
-- **[Jan. 2025]** Three papers are accepted to ICLR 2025!
+- **[Jan. 2025]** Three papers are accepted to ICLR 2025, including one spotlight paper for our Lumina-T2X!
 - **[Sep. 2024]** Our paper "Lumina-Next" for improving text-to-image generation is accepted to NeurIPS 2024!
 - **[May 2024]** Our paper "ProtLLM" about protein understanding using LLMs is accepted to ACL 2024!
 - **[May 2024]** Check out our Lumina series of papers, the next generation of generative models including flow-based models, autoregressive models, and more on the way!
