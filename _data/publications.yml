@@ -67,20 +67,20 @@ main:
     image: ./assets/img/protllm.png
     # notes: Early Accept
 
-  # - title: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions"
-  #   authors: Songhao Han*,  <strong>Le Zhuo*</strong>, Yue Liao, Si Liu
-  #   conference_short: Preprint
-  #   conference: Under review.
-  #   pdf: https://arxiv.org/pdf/2311.11904.pdf
-  #   code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/cvpr24.png
-  #   # notes: Early Accept
+  - title: "LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions"
+    authors: Songhao Han*,  <strong>Le Zhuo*</strong>, Yue Liao, Si Liu
+    conference_short: ICLR
+    conference: ICLR 2025 Science for Foundation Models (SCI-FM) Workshop
+    pdf: https://arxiv.org/pdf/2311.11904.pdf
+    code: https://github.com/zhuole1025/LLMs_as_Visual_Explainers
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/cvpr24.png
+    # notes: Early Accept
 
   - title: "GraphText: Graph Reasoning in Text Space"
     authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang
     conference_short: NeurIPS
-    conference: NeurIPS 2024 Workshop on Adaptive Foundation Models, 2024.
+    conference: NeurIPS 2024 Workshop on Adaptive Foundation Models.
     pdf: https://arxiv.org/pdf/2310.01089.pdf
     code: https://github.com/AndyJZhao/GraphText
     # bibtex: https://bib.yliu.me/MICCAI23.txt
