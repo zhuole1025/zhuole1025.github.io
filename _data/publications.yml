@@ -1,5 +1,17 @@
 main:
 
+  - title: "VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection"
+    authors: Songhao Han, Wei Huang, Hairong Shi, <strong>Le Zhuo</strong>, Xiu Su, Shifeng Zhang, Xu Zhou, Xiaojuan Qi, Yue Liao, Si Liu
+    conference_short: CVPR
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.14794
+    # page: https://lumina-t2-x-web.vercel.app
+    code: https://github.com/hshjerry/VideoEspresso
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    notes: Oral Presentation
+    image: ./assets/img/cvpr25.png
+    # notes: Early Accept
+
   - title: "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation"
     authors: Fangxun Shu*, Yue Liao*, <strong>Le Zhuo</strong>, Chenning Xu, Lei Zhang, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu, Haoyuan Li, Bolin Li, Zhelun Yu, Si Liu, Hongsheng Li, Hao Jiang
     conference_short: ICLR
