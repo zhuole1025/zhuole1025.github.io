@@ -1,5 +1,17 @@
 main:
 
+  - title: "From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning"
+    authors: <strong>Le Zhuo*</strong>, Liangbing Zhao*, Sayak Paul, Yue Liao, Renrui Zhang, Yi Xin, Peng Gao, Mohamed Elhoseiny, Hongsheng Li
+    conference_short: ICCV
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.14794
+    page: https://diffusion-cot.github.io/reflection2perfection/
+    code: https://github.com/Diffusion-CoT/ReflectionFlow
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # notes: Oral Presentation
+    image: ./assets/img/reflection.png
+    # notes: Early Accept
+
   - title: "VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection"
     authors: Songhao Han, Wei Huang, Hairong Shi, <strong>Le Zhuo</strong>, Xiu Su, Shifeng Zhang, Xu Zhou, Xiaojuan Qi, Yue Liao, Si Liu
     conference_short: CVPR
@@ -12,38 +24,27 @@ main:
     image: ./assets/img/cvpr25.png
     # notes: Early Accept
 
-  - title: "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation"
-    authors: Fangxun Shu*, Yue Liao*, <strong>Le Zhuo</strong>, Chenning Xu, Lei Zhang, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu, Haoyuan Li, Bolin Li, Zhelun Yu, Si Liu, Hongsheng Li, Hao Jiang
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2408.15881
-    # page: https://lumina-t2-x-web.vercel.app
-    code: https://github.com/shufangxun/LLaVA-MoD
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/llavamod.png
-    # notes: Early Accept
+  # - title: "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation"
+  #   authors: Fangxun Shu*, Yue Liao*, <strong>Le Zhuo</strong>, Chenning Xu, Lei Zhang, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu, Haoyuan Li, Bolin Li, Zhelun Yu, Si Liu, Hongsheng Li, Hao Jiang
+  #   conference_short: ICLR
+  #   conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+  #   pdf: https://arxiv.org/abs/2408.15881
+  #   # page: https://lumina-t2-x-web.vercel.app
+  #   code: https://github.com/shufangxun/LLaVA-MoD
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/llavamod.png
+  #   # notes: Early Accept
   
-  - title: "PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions"
-    authors: Weifeng Lin*, Xinyu Wei*, Renrui Zhang*, <strong>Le Zhuo</strong>, Shitian Zhao, Siyuan Huang, Junlin Xie, Yu Qiao, Peng Gao, Hongsheng Li
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2409.15278
-    # page: https://lumina-t2-x-web.vercel.app
-    code: https://github.com/AFeng-x/PixWizard
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/pixwizard.png
-    # notes: Early Accept
-
-  - title: "Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining"
-    authors: Dongyang Liu*, Shitian Zhao*, <strong>Le Zhuo*</strong>, Weifeng Lin*, Yu Qiao, Hongsheng Li, Peng Gao
-    conference_short: Preprint
-    conference: Technical Report.
-    pdf: https://arxiv.org/abs/2408.02657
-    # page: https://lumina-t2-x-web.vercel.app
-    code: https://github.com/Alpha-VLLM/Lumina-mGPT
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/lumina-mgpt.png
-    # notes: Early Accept
+  # - title: "PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions"
+  #   authors: Weifeng Lin*, Xinyu Wei*, Renrui Zhang*, <strong>Le Zhuo</strong>, Shitian Zhao, Siyuan Huang, Junlin Xie, Yu Qiao, Peng Gao, Hongsheng Li
+  #   conference_short: ICLR
+  #   conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+  #   pdf: https://arxiv.org/abs/2409.15278
+  #   # page: https://lumina-t2-x-web.vercel.app
+  #   code: https://github.com/AFeng-x/PixWizard
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/pixwizard.png
+  #   # notes: Early Accept
 
   - title: "Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT"
     authors: <strong>Le Zhuo*</strong>, Ruoyi Du*, Han Xiao*, Yangguang Li*, Dongyang Liu*, Rongjie Huang*, Wenze Liu*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
@@ -67,6 +68,17 @@ main:
     notes: Spotlight
     image: ./assets/img/Lumina-T2X.png
     # notes: Early Accept
+  
+  - title: "Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining"
+    authors: Dongyang Liu*, Shitian Zhao*, <strong>Le Zhuo*</strong>, Weifeng Lin*, Yu Qiao, Hongsheng Li, Peng Gao
+    conference_short: Preprint
+    conference: Technical Report.
+    pdf: https://arxiv.org/abs/2408.02657
+    # page: https://lumina-t2-x-web.vercel.app
+    code: https://github.com/Alpha-VLLM/Lumina-mGPT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/lumina-mgpt.png
+    # notes: Early Accept
 
   - title: "ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training"
     authors: <strong>Le Zhuo*</strong>, Zewen Chi*, Minghao Xu*, Heyan Huang, Jianan Zhao, Heqi Zheng, Conghui He, Xian-Ling Mao, Wentao Zhang
@@ -89,15 +101,15 @@ main:
     image: ./assets/img/cvpr24.png
     # notes: Early Accept
 
-  - title: "GraphText: Graph Reasoning in Text Space"
-    authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang
-    conference_short: NeurIPS
-    conference: NeurIPS 2024 Workshop on Adaptive Foundation Models.
-    pdf: https://arxiv.org/pdf/2310.01089.pdf
-    code: https://github.com/AndyJZhao/GraphText
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/iclr24.png
-    # notes: Early Accept
+  # - title: "GraphText: Graph Reasoning in Text Space"
+  #   authors: Jianan Zhao, <strong>Le Zhuo</strong>, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang
+  #   conference_short: NeurIPS
+  #   conference: NeurIPS 2024 Workshop on Adaptive Foundation Models.
+  #   pdf: https://arxiv.org/pdf/2310.01089.pdf
+  #   code: https://github.com/AndyJZhao/GraphText
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/iclr24.png
+  #   # notes: Early Accept
 
   - title: "DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation"
     authors: Qiaosong Qi*, <strong>Le Zhuo*</strong>, Aixi Zhang, Yue Liao, Fei Fang, Si Liu, Shuicheng Yan
@@ -117,15 +129,15 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/iccv23.png
 
-  - title: "MARBLE: Music Audio Representation Benchmark for Universal Evaluation"
-    authors: Ruibin Yuan*, Yinghao Ma*, Yizhi Li*, Ge Zhang*, Xingran Chen, Hanzhi Yin, <strong>Le Zhuo</strong>, Yiqi Liu, Jiawen Huang, Zeyue Tian, Binyue Deng, Ningzhi Wang, Chenghua Lin, Emmanouil Benetos, Anton Ragni, Norbert Gyenge, Roger Dannenbert, Wenhu Chen, Gus Xia, Wei Xue, Si Liu, Shi Wang, Ruibo Liu, Yike Guo, Jie Fu
-    conference_short: NeurIPS
-    conference: Neural Information Processing Systems  <strong>(NeurIPS)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.10548.pdf
-    page: https://marble-bm.shef.ac.uk/
-    code: https://github.com/a43992899/MARBLE-Benchmark
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/neurips23.png
+  # - title: "MARBLE: Music Audio Representation Benchmark for Universal Evaluation"
+  #   authors: Ruibin Yuan*, Yinghao Ma*, Yizhi Li*, Ge Zhang*, Xingran Chen, Hanzhi Yin, <strong>Le Zhuo</strong>, Yiqi Liu, Jiawen Huang, Zeyue Tian, Binyue Deng, Ningzhi Wang, Chenghua Lin, Emmanouil Benetos, Anton Ragni, Norbert Gyenge, Roger Dannenbert, Wenhu Chen, Gus Xia, Wei Xue, Si Liu, Shi Wang, Ruibo Liu, Yike Guo, Jie Fu
+  #   conference_short: NeurIPS
+  #   conference: Neural Information Processing Systems  <strong>(NeurIPS)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.10548.pdf
+  #   page: https://marble-bm.shef.ac.uk/
+  #   code: https://github.com/a43992899/MARBLE-Benchmark
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   image: ./assets/img/neurips23.png
 
   - title: "LyricWhiz: Robust Multilingual Zero-shot Lyrics Transcription by Whispering to ChatGPT"
     authors: <strong>Le Zhuo</strong>, Ruibin Yuan, Jiahao Pan, Yizhi Li, Ge Zhang, Jiawen Huang, Si Liu, Roger Dannenberg, Jie Fu, Chenghua Lin, Emmanouil Benetos, Wenhu Chen, Wei Xue, Yike Guo

@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About Me
 
-I am currently working as a young researcher at Shanghai AI Lab after receiving my B.E. degree in 2024, supervised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before this, I was a research intern at [Mila - Québec AI Institute](https://mila.quebec/) supervised by Prof. [Jian Tang](https://jian-tang.com/). During my undergraduate years, I was supervised by  Prof. [Si Liu](http://colalab.net/) and I was fortunate to work with Prof. [Shuicheng Yan](https://yanshuicheng.info/) and Dr. [Jie Fu](https://bigaidream.github.io/) at Beijing Academy of Artificial Intelligence. 
+I am currently working as a researcher at Krea AI. Before this, I was at Shanghai AI Lab supervised by Dr. [Peng Gao](https://gaopengcuhk.github.io/) and Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) after receiving my B.E. degree in 2024. I was also a research intern at [Mila - Québec AI Institute](https://mila.quebec/) supervised by Prof. [Jian Tang](https://jian-tang.com/). During my undergraduate years, I was supervised by  Prof. [Si Liu](http://colalab.net/) and I was fortunate to work with Prof. [Shuicheng Yan](https://yanshuicheng.info/) and Dr. [Jie Fu](https://bigaidream.github.io/) at Beijing Academy of Artificial Intelligence. 
 <!-- I was also a research intern at Alibaba Inc., where I worked on music generation with Dr. [Aixi Zhang](https://scholar.google.com.hk/citations?user=hNTP47EAAAAJ&hl=en). -->
 
 ## Research Interests
@@ -11,11 +11,12 @@ I am currently working as a young researcher at Shanghai AI Lab after receiving 
 <!-- My interests spans multiple areas, including: -->
 
 - **Generative Modeling:** Broad families of generative models and their potential applications, e.g., diffusion models, flow matching, etc.
-- **Multimodal Learning:** Developing models that seamlessly integrate and bridge the gap between various modalities, such as text, image, and audio.
+- **Multimodal Learning:** Developing models that seamlessly integrate and bridge the gap between various modalities, such as text, image, and video.
 <!-- - **AI4Science:** Exploring ways to make deep learning algorithms more robust to common challenges in drug discovery, e.g., protein understanding, molecular generation, etc. -->
 
 ## News
 
+- **[Jun. 2025]** Three papers are accepted to ICCV 2025!
 - **[Feb. 2025]** One paper about building efficient video LLM is accepted to CVPR 2025 as Oral Presentation!
 - **[Jan. 2025]** Three papers are accepted to ICLR 2025, including one spotlight paper for our Lumina-T2X!
 - **[Sep. 2024]** Our paper "Lumina-Next" for improving text-to-image generation is accepted to NeurIPS 2024!
