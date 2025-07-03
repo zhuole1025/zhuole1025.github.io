@@ -3,8 +3,8 @@ main:
   - title: "From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning"
     authors: <strong>Le Zhuo*</strong>, Liangbing Zhao*, Sayak Paul, Yue Liao, Renrui Zhang, Yi Xin, Peng Gao, Mohamed Elhoseiny, Hongsheng Li
     conference_short: ICCV
-    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2411.14794
+    conference: The International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2504.16080
     page: https://diffusion-cot.github.io/reflection2perfection/
     code: https://github.com/Diffusion-CoT/ReflectionFlow
     # bibtex: https://bib.yliu.me/MICCAI23.txt
